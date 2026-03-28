@@ -1,0 +1,2 @@
+# Ignore config files in GitHub language statistics
+eslint.config.mjs linguist-detectable=false
